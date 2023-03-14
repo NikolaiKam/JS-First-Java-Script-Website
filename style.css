@@ -1,0 +1,54 @@
+body{
+    background-image: url(background1.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    color: black;
+    padding-top: 250px;
+    margin-top: 0;
+}
+h2{
+    text-align: center;
+    color: black;
+    font-size: 80px;
+}
+
+button{
+    background-color: red;
+    border: none;
+    border-radius: 2px;
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.b1{
+    margin-left: 535px;
+
+}
+
+button:hover{
+    opacity: 0.9;
+}
+
+.save-b{
+    background-color: green;
+    margin-left: 630px;
+    margin-top: 10px;
+}
+
+p{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    margin-top: 0;
+    font-weight: bold;
+}
